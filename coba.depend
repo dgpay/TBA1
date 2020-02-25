@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1544110453 source:d:\tugas smt3\tubes tba\coba\main.cpp
+	<bits/stdc++.h>
+	"subjek.h"
+	"objek.h"
+	"predikat.h"
+
+1544108093 source:d:\tugas smt3\tubes tba\coba\subjek.cpp
+	<iostream>
+	"subjek.h"
+
+1544105127 d:\tugas smt3\tubes tba\coba\subjek.h
+
+1544105543 d:\tugas smt3\tubes tba\coba\predikat.h
+
+1544110018 source:d:\tugas smt3\tubes tba\coba\predikat.cpp
+	<iostream>
+	"predikat.h"
+
+1544109482 source:d:\tugas smt3\tubes tba\coba\objek.cpp
+	<iostream>
+	"objek.h"
+
+1544107168 d:\tugas smt3\tubes tba\coba\objek.h
+
+1582658693 source:d:\coba\main.cpp
+	<bits/stdc++.h>
+	"subjek.h"
+	"objek.h"
+	"predikat.h"
+
+1544105128 d:\coba\subjek.h
+
+1544107170 d:\coba\objek.h
+
+1544105544 d:\coba\predikat.h
+
+1544109484 source:d:\coba\objek.cpp
+	<iostream>
+	"objek.h"
+
+1544110504 source:d:\coba\predikat.cpp
+	<iostream>
+	"predikat.h"
+
+1544108094 source:d:\coba\subjek.cpp
+	<iostream>
+	"subjek.h"
+
